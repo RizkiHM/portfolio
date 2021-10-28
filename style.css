@@ -1,0 +1,28 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #3f72af;
+}
+
+#qualification {
+  background-color: #3f72af;
+}
+
+section {
+}
+
+.p1 {
+  padding-top: 1rem;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.lead {
+  font-weight: normal;
+}
+
+.p3 {
+  font-weight: bold;
+}
